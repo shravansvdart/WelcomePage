@@ -1,0 +1,20 @@
+:root {
+  --button-text-font-family: "Inter", Helvetica;
+  --button-text-font-weight: 600;
+  --button-text-font-size: 20px;
+  --button-text-letter-spacing: 0px;
+  --button-text-line-height: 129.99999523162842%;
+  --button-text-font-style: normal;
+  --header-font-family: "Outfit", Helvetica;
+  --header-font-weight: 600;
+  --header-font-size: 75px;
+  --header-letter-spacing: -1.5px;
+  --header-line-height: 120.00000476837158%;
+  --header-font-style: normal;
+  --heading-font-family: "Outfit", Helvetica;
+  --heading-font-weight: 600;
+  --heading-font-size: 200px;
+  --heading-letter-spacing: -4px;
+  --heading-line-height: 120.00000476837158%;
+  --heading-font-style: normal;
+}
